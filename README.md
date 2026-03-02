@@ -61,7 +61,7 @@ If you wanna use DLLs such as Console you should use UUU client or the Basic Inj
 
 <summary>Click here to see!</summary>
 
->![NOTE]
+>**NOTE**
 > These are the versions that i had on my PC to test obv i will **not** test every single possible version. So do it your self.
 
 ### Season 0
