@@ -81,7 +81,7 @@ If you wanna use DLLs such as Console you should use UUU client or the Basic Inj
 ### Season 3
 - [ ] 3.3
 - [ ] 3.5
-- [ ] 3.6
+- [x] 3.6 (Works)
 
 ### Season 4
 - [ ] 4.5
