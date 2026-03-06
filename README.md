@@ -65,7 +65,7 @@ If you wanna use DLLs such as Console you should use UUU client or the Basic Inj
 > These are the versions that i had on my PC to test obv i will **not** test every single possible version. So do it your self.
 
 ### Season 0
-- [ ] 1.7.2 (Untested)
+- [x] 1.7.2 (Works fine
 
 ### Season 1
 - [x] 1.8 (Should work)
@@ -84,7 +84,7 @@ If you wanna use DLLs such as Console you should use UUU client or the Basic Inj
 - [x] 3.6 (Works)
 
 ### Season 4
-- [ ] 4.5
+- [x] 4.5 (Works fine most of the time)
 
 ### Season 5
 - [ ] 5.10
