@@ -5,13 +5,29 @@ cls
 title Ducki67's Batch FN Launcher
 :: Launcher made by Ducki67#0 on Discord
 color 0b
+chcp 65001 >nul
+echo ╔╗ ┌─┐┌┬┐┌─┐┬ ┬  ╔═╗╔╗╔  ╦  ┌─┐┬ ┬┌┐┌┌─┐┬ ┬┌─┐┬─┐
+echo ╠╩╗├─┤ │ │  ├─┤  ╠╣ ║║║  ║  ├─┤│ │││││  ├─┤├┤ ├┬┘
+echo ╚═╝┴ ┴ ┴ └─┘┴ ┴  ╚  ╝╚╝  ╩═╝┴ ┴└─┘┘└┘└─┘┴ ┴└─┘┴└─
 echo =========================================
 echo ----{  Ducki67's Batch FN Launcher  }----
 echo ----{++Batch+FN+Launcher+Release-1.0}----
 echo =========================================
 echo.
-set /p "USER_EMAIL=Email: "
-set /p "USER_PASS=Password: "
+
+:: Single Player Mode Toggle | set ot "False" to ask for your Custom credentials every time you use the launcher
+set "SINGLE_PLAYER_ACCOUNT=true"
+set "SP_EMAIL=Player@gmail.com"
+set "SP_PASSWORD=123456789"
+
+if /i "%SINGLE_PLAYER_ACCOUNT%"=="true" (
+    set "USER_EMAIL=%SP_EMAIL%"
+    set "USER_PASS=%SP_PASSWORD%"
+) else (
+    set /p "USER_EMAIL=Email: "
+    set /p "USER_PASS=Password: "
+)
+
 echo.
 echo [+] Launching in process...
 echo.
