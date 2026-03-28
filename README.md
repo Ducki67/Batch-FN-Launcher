@@ -65,7 +65,7 @@ If you wanna use DLLs such as Console you should use UUU client or the Basic Inj
 > These are the versions that i had on my PC to test obv i will **not** test every single possible version. So do it your self.
 
 ### Season 0
-- [x] 1.7.2 (Works fine
+- [x] 1.7.2 (Works fine)
 
 ### Season 1
 - [x] 1.8 (Should work)
@@ -90,6 +90,19 @@ If you wanna use DLLs such as Console you should use UUU client or the Basic Inj
 - [ ] 5.10
 - [ ] 5.41
 
+### Season 6
+- [ ] 6.00 (doesnt work at all)
+
+### Season 7
+- [ ] 7.00
+- [ ] 7.10
+- [ ] 7.20.1
+- [ ] 7.30.1
+- [ ] 7.40.3
+
+## Season 8
+- [x] 8.51 (Works fine)
+
 ### Season 10
 - [ ] 10.40
 
@@ -97,7 +110,15 @@ If you wanna use DLLs such as Console you should use UUU client or the Basic Inj
 - [ ] 12.61
 
 ### Season 13
-- [ ] 13.40
+- [ ] 13.40 (doesnt work)
+
+### Season 18
+- [x] 18.40 (Worked  50/50 tho)
+
+### Season 23
+- [ ] 23.10 (doesnt work)
+- [ ] 23.50 
+
 
 ### Season 24
 - [ ] 24.20 (Should work)
@@ -106,10 +127,11 @@ If you wanna use DLLs such as Console you should use UUU client or the Basic Inj
 - [x] 26.30 (Tested and works)
 
 ### Season 27
-- [x] 27.11 (Should work)
+- [x] 27.11 (Worked onyl with PushWidget dlls)
 
 ### Season 28
-- [x] 28.30 (Worked)
+- [ ] 28.00
+- [x] 28.30 (Worked onyl with PushWidget dlls)
 
 </details>
 ---
